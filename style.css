@@ -1,6 +1,4 @@
 *{
-    margin: 0;
-    padding: 0;
     box-sizing: border-box;
 }
 @media screen and (max-width: 420px){
@@ -42,6 +40,7 @@
         background-color: #f2f2cd;
         margin-top: 0;
         padding: 1.5em;
+        width: 100%;
     }
 
 }
@@ -77,6 +76,7 @@
     #steps .row{
         margin-top: 0;
         padding: 1.5em;
+        width: 100%;
     }  
 }
 /* BLOCCO PERCHE */
@@ -105,6 +105,7 @@
         margin-top: 0;
         padding: 1.5em;
         background-color: #f2f2cd;
+        width: 100%;
     }   
     hr{ border: 2px solid grey;
     }
